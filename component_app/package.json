@@ -1,5 +1,5 @@
 {
-  "name": "cra_remote",
+  "name": "cra_component_app",
   "version": "0.0.0",
   "dependencies": {
     "react": "17.0.2",
