@@ -5,7 +5,7 @@
   "workspaces": [
     "./host",
     "./remote",
-    "./component-app"
+    "./component_app"
   ],
   "scripts": {
     "start": "pnpm --filter cra_* start",
